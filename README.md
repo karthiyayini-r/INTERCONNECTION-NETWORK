@@ -48,7 +48,17 @@ This is a simple linear array where the end nodes are connected. It is equivalen
      
 Torus:
 
-     The mesh network with wrap around connections is called Tours Network.Shorter link length which helps to reduce the time packet required to traverse in the interconnected links. Shorter link length also contributes to the reduction in interconnect area required for implementation.
+The mesh network with wrap around connections is called Tours Network.Shorter link length which helps to reduce the time packet required to traverse in the interconnected links. Shorter link length also contributes to the reduction in interconnect area required for implementation.
+
+
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/deb7a515-247c-4b14-8439-682eda6cc849)
+
+Tree interconnection network
+
+In the tree interconnection network, processors are arranged in a complete binary tree pattern. tree topology is a type of network topology that resembles a tree. In a tree topology, there is one central node (the “trunk”), and each node is connected to the central node through a single path. Nodes can be thought of as branches coming off of the trunk.
+
+
+     
 
 
 
