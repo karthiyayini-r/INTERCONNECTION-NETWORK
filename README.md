@@ -72,6 +72,10 @@ Systolic Array
 This interconnection network is a type of pipelined array architecture and it is designed for multidimensional flow of data. It is used for implementing fixed algorithms.. One matrix is fed in a row at a time from the top of the array and is passed down the array, the other matrix is fed in a column at a time from the left hand side of the array and passes from left to right
 
 
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/46ac6be3-5995-46d5-9e64-04da8ce8f643)
+
+
+
 Cube:
 
 It is a 3 dimensional interconnection network. In this the PE’s are arranged in a cube structure
