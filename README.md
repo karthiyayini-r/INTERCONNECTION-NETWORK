@@ -9,4 +9,5 @@ VARIOUS INTERCONNECTION NETWORKS
 Fully connected:
 
       This is the most powerful interconnection topology. In this each node is directly connected to all other nodes. The shortcoming of this network is that it requires too many connections
-                                                   https://images.app.goo.gl/aE1nBP5ynKbX5YTk8
+                                    ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/58d24382-4631-417b-901f-dd615c93279d)
+
