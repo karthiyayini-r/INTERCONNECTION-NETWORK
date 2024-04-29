@@ -13,6 +13,7 @@ The shortcoming of this network is that it requires too many connections.Fully c
       
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/003457ac-e082-4ff1-b5f3-4e0b4daba8bf)
 
+
 Cross Bar
 
 The crossbar network is the simplest interconnection network. It has a two dimensional grid of switches. 
@@ -20,16 +21,23 @@ It is a non-blocking network and provides connectivity between inputs and output
 
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/02fa22b6-2dbc-4b24-950f-f8de5ede6e46)
 
+
 Linear Array:
 
 This is a most fundamental interconnection pattern. In this processors are connected in a linear one-dimensional array. The first and last processors are connected with one adjacent processor and the middle processing elements are connected with two adjacent processors. It is a one-dimensional interconnection network
 
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/55a02857-2811-4296-b861-562fa52e80ac)
 
+
 Mesh:
 
 It is a two dimensional network. In this all processing elements are arranged in a two dimensional grid.A network configuration where devices are interconnected in a decentralized manner. Instead of relying on a central hub or switch, each device connects directly to multiple other devices, forming a mesh-like structure.
 
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/be6eebf2-eb08-4a46-8cf3-943220f3224e)
+
+
+Ring:
+      This is a simple linear array where the end nodes are connected. It is equivalent to a mesh with wrap around connections. The data transfer in one direction,a type of network configuration where devices are connected in a circular manner, forming a closed loop. In this setup, each device is connected to exactly two other devices, creating a continuous pathway for data transmission.
 
 
 
