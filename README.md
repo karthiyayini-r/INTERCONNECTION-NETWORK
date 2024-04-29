@@ -36,8 +36,19 @@ It is a two dimensional network. In this all processing elements are arranged in
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/be6eebf2-eb08-4a46-8cf3-943220f3224e)
 
 
+
 Ring:
-      This is a simple linear array where the end nodes are connected. It is equivalent to a mesh with wrap around connections. The data transfer in one direction,a type of network configuration where devices are connected in a circular manner, forming a closed loop. In this setup, each device is connected to exactly two other devices, creating a continuous pathway for data transmission.
+
+
+This is a simple linear array where the end nodes are connected. It is equivalent to a mesh with wrap around connections. The data transfer in one direction,a type of network configuration where devices are connected in a circular manner, forming a closed loop. In this setup, each device is connected to exactly two other devices, creating a continuous pathway for data transmission.
+
+
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/0180d3a4-4df9-4d2d-b26f-a27bb97e83a2)
+
+     
+Torus:
+
+     The mesh network with wrap around connections is called Tours Network.Shorter link length which helps to reduce the time packet required to traverse in the interconnected links. Shorter link length also contributes to the reduction in interconnect area required for implementation.
 
 
 
