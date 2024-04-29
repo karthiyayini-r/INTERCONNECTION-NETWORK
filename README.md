@@ -58,6 +58,12 @@ Tree interconnection network
 In the tree interconnection network, processors are arranged in a complete binary tree pattern. tree topology is a type of network topology that resembles a tree. In a tree topology, there is one central node (the “trunk”), and each node is connected to the central node through a single path. Nodes can be thought of as branches coming off of the trunk.
 
 
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/f2778c7b-e175-4f37-a2e6-4111c71ed448)
+
+Fat tree:
+
+      It is a modified version of the tree network. In this network the bandwidth of edge (or the connecting wire between nodes) increases.Fat tree has identical bandwidth at any bisections. – Each layer has the same aggregated bandwidth.In a tree data structure, every branch has the same thickness (bandwidth), regardless of their place in the hierarchy—they are all "skinny" (skinny in this context means low-bandwidth). In a fat tree, branches nearer the top of the hierarchy are "fatter" (thicker) than branches further down the hierarchy
+
      
 
 
