@@ -24,5 +24,14 @@ Linear Array:
 
 This is a most fundamental interconnection pattern. In this processors are connected in a linear one-dimensional array. The first and last processors are connected with one adjacent processor and the middle processing elements are connected with two adjacent processors. It is a one-dimensional interconnection network
 
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/55a02857-2811-4296-b861-562fa52e80ac)
+
+Mesh:
+
+It is a two dimensional network. In this all processing elements are arranged in a two dimensional grid.A network configuration where devices are interconnected in a decentralized manner. Instead of relying on a central hub or switch, each device connects directly to multiple other devices, forming a mesh-like structure.
+
+
+
+
 
 
