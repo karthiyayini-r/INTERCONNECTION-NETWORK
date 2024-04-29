@@ -62,8 +62,7 @@ In the tree interconnection network, processors are arranged in a complete binar
 
 Fat tree:
 
-      It is a modified version of the tree network. In this network the bandwidth of edge (or the connecting wire between nodes) increases.Fat tree has identical bandwidth at any bisections. – Each layer has the same aggregated bandwidth.In a tree data structure, every branch has the same thickness (bandwidth), regardless of their place in the hierarchy—they are all "skinny" (skinny in this context means low-bandwidth). In a fat tree, branches nearer the top of the hierarchy are "fatter" (thicker) than branches further down the hierarchy
-
+It is a modified version of the tree network. In this network the bandwidth of edge (or the connecting wire between nodes) increases towards the root. It is a more realistic simulation of the normal tree where branches get thicker towards root. In a fat tree, branches nearer the top of the hierarchy are "fatter" (thicker) than branches further down the hierarchy
      
 
 
