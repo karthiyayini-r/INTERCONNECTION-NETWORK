@@ -80,9 +80,15 @@ Cube:
 
 It is a 3 dimensional interconnection network. In this the PE’s are arranged in a cube structure
 
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/46513303-899f-410b-aa2a-1e0df8eab3c1)
+
+
      
 
+Conclusion
 
+The network topology describes the network's structure of how all components are connected to one another. 
+We have seen different network topologies, such as fully interconnectd topology, tree topology, star topology, ring topology, mesh topology, tree topology, and cubetopology etc .
 
 
 
