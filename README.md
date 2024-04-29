@@ -64,6 +64,19 @@ Fat tree:
 
 It is a modified version of the tree network. In this network the bandwidth of edge (or the connecting wire between nodes) increases towards the root. It is a more realistic simulation of the normal tree where branches get thicker towards root. In a fat tree, branches nearer the top of the hierarchy are "fatter" (thicker) than branches further down the hierarchy
      
+![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/cbeeee94-c67b-412d-a6d5-b5b08961d0ad)
+
+
+Systolic Array
+
+This interconnection network is a type of pipelined array architecture and it is designed for multidimensional flow of data. It is used for implementing fixed algorithms.. One matrix is fed in a row at a time from the top of the array and is passed down the array, the other matrix is fed in a column at a time from the left hand side of the array and passes from left to right
+
+
+Cube:
+
+It is a 3 dimensional interconnection network. In this the PE’s are arranged in a cube structure
+
+     
 
 
 
