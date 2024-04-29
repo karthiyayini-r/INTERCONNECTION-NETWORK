@@ -19,6 +19,7 @@ Cross Bar
 The crossbar network is the simplest interconnection network. It has a two dimensional grid of switches. 
 It is a non-blocking network and provides connectivity between inputs and outputs and it is possible to join any of the inputs to any output.It allows the owners of the units to establish a private network link and eliminates the need to connect using the internet.
 
+
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/02fa22b6-2dbc-4b24-950f-f8de5ede6e46)
 
 
@@ -54,16 +55,20 @@ The mesh network with wrap around connections is called Tours Network.Shorter li
 
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/deb7a515-247c-4b14-8439-682eda6cc849)
 
+
 Tree interconnection network
 
-In the tree interconnection network, processors are arranged in a complete binary tree pattern. tree topology is a type of network topology that resembles a tree. In a tree topology, there is one central node (the “trunk”), and each node is connected to the central node through a single path. Nodes can be thought of as branches coming off of the trunk.
+In the tree interconnection network, processors are arranged in a complete binary tree pattern. tree topology is a type of network topology that resembles a tree. 
+In a tree topology, there is one central node (the “trunk”), and each node is connected to the central node through a single path. Nodes can be thought of as branches coming off of the trunk.
 
 
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/f2778c7b-e175-4f37-a2e6-4111c71ed448)
 
+
 Fat tree:
 
 It is a modified version of the tree network. In this network the bandwidth of edge (or the connecting wire between nodes) increases towards the root. It is a more realistic simulation of the normal tree where branches get thicker towards root. In a fat tree, branches nearer the top of the hierarchy are "fatter" (thicker) than branches further down the hierarchy
+
      
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/cbeeee94-c67b-412d-a6d5-b5b08961d0ad)
 
@@ -80,6 +85,7 @@ This interconnection network is a type of pipelined array architecture and it is
 Cube:
 
 It is a 3 dimensional interconnection network. In this the PE’s are arranged in a cube structure
+
 
 ![image](https://github.com/karthiyayini-r/INTERCONNECTION-NETWORK/assets/168261634/46513303-899f-410b-aa2a-1e0df8eab3c1)
 
